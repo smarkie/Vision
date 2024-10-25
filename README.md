@@ -22,3 +22,16 @@
 ## 🚀 Vision
 
 VISION aspires to redefine AI-powered assistance by integrating real-time, multi-source input processing, creating a robust, interactive user experience that supports productivity, learning, and personal projects.
+
+Requirements:
+# Installation Instructions
+
+1. **Open Command Prompt**:
+   - Press `Win + R`, type `cmd`, and hit `Enter`.
+
+2. **Navigate to Your Project Directory**:
+   ```bash
+   cd C:\Users\YourUsername\Documents\PythonProjects
+3. **Install Packages:**   
+```bash
+pip install -r requirements.txt
